@@ -12,4 +12,4 @@
 
 ####6.- Subsets using sampply according with specifications
 
-####7.- Creates another data set with the means per activity.
+####7.- Creates another data set with average of means and Std per activity.
